@@ -1,4 +1,4 @@
-Welcome to GateIn:
+alkjdfslkWelcome to GateIn:
 ===========================
 
 This will explain you how to build a package of GateIn with Tomcat or JBoss.
